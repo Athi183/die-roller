@@ -1,8 +1,5 @@
-Here's a breakdown of the code so that you can write a proper explanation for your GitHub repository:
 
----
-
-### Dice Roll Simulator with Tkinter
+# Dice Roll Simulator with Tkinter
 
 This Python project creates a graphical dice-rolling simulator using the `tkinter` library. It generates random dice faces whenever the "Let's Roll..." button is clicked. The dice faces are represented using Unicode characters.
 
